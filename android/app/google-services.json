@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261797186512",
+    "project_id": "nam-po-puti-4c7b1",
+    "storage_bucket": "nam-po-puti-4c7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261797186512:android:a313afed95a81baff547d5",
+        "android_client_info": {
+          "package_name": "com.example.nam_po_puti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261797186512-kf1nbfkht7e8ia7j436oqk5ltqn664ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGX5HxXIszoHNTSs7YysmUDfDXZasPq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261797186512-kf1nbfkht7e8ia7j436oqk5ltqn664ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
